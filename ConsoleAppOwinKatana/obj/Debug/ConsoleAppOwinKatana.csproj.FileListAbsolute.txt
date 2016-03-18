@@ -1,0 +1,15 @@
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\ConsoleAppOwinKatana.exe.config
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\ConsoleAppOwinKatana.exe
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\ConsoleAppOwinKatana.pdb
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\Microsoft.Owin.dll
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\Microsoft.Owin.Hosting.dll
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\Owin.dll
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\Microsoft.Owin.xml
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\Microsoft.Owin.Hosting.xml
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\obj\Debug\ConsoleAppOwinKatana.csprojResolveAssemblyReference.cache
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\obj\Debug\ConsoleAppOwinKatana.exe
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\obj\Debug\ConsoleAppOwinKatana.pdb
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\Microsoft.Owin.Diagnostics.dll
+c:\users\miklun\documents\visual studio 2013\Projects\ConsoleAppOwinKatana\ConsoleAppOwinKatana\bin\Debug\Microsoft.Owin.Diagnostics.xml
